@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "@fullcalendar/timegrid",
+  "version": "4.3.0",
+  "title": "FullCalendar Time Grid Plugin",
+  "description": "Display your events on a grid of time slots",
+  "docs": "https://fullcalendar.io/docs/timegrid-view",
+  "browserGlobal": "FullCalendarTimeGrid",
+  "peerDependencies": {
+    "@fullcalendar/core": "~4.3.0"
+  }
+}

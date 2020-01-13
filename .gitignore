@@ -1,7 +1,7 @@
 
 /tmp
 /archives
-dist
+#dist
 
 # npm
 node_modules
